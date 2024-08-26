@@ -21,7 +21,7 @@ For details of the pipeline and dataset, please refer to our [Paper](https://ope
 ||Description|Instruction|
 |:--------:|:--------:|:--------:|
 |ZH|[download](https://cloud.tsinghua.edu.cn/f/e66664542f534f399802/?dl=1)|[download](https://cloud.tsinghua.edu.cn/f/d6f00e027f504751b4c0/?dl=1)|
-|EN|[download](https://cloud.tsinghua.edu.cn/f/517428835bd5486e87e8/?dl=1)|[download](https://cloud.tsinghua.edu.cn/f/cce83dd884ed4104b1a1/?dl=1|)
+|EN|[download](https://cloud.tsinghua.edu.cn/f/517428835bd5486e87e8/?dl=1)|[download](https://cloud.tsinghua.edu.cn/f/cce83dd884ed4104b1a1/?dl=1)|
 
 ## Request Access to Emphasis Speech Dataset
 
