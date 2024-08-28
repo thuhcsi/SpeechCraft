@@ -2,7 +2,7 @@
 
 This is the official repository of the ACM Multimedia 2024 paper *"SpeechCraft: A Fine-Grained Expressive Speech Dataset with Natural Language Description"*.
 
-For details of the pipeline and dataset, please refer to our [Paper](https://openreview.net/forum?id=rjAY1DGUWC) and [Demo Page](https://speechcraft2024.github.io/speechcraft2024/)
+For details of the pipeline and dataset, please refer to our [Paper](https://arxiv.org/abs/2408.13608) and [Demo Page](https://speechcraft2024.github.io/speechcraft2024/)
 
 <!-- Dataset and pipeline are coming soon. -->
 
