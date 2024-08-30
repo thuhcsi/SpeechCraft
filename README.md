@@ -31,8 +31,8 @@ Please first refer to some emphasis examples provided [here](https://speechcraft
 
 |Language|Speech Corpus|#Duration|#Clips|
 |:--------:|:--------:|--------:|--------:|
-|ZH|AISHELL-3-stress|50.59h|63,258|
-|EN|LibriTTS-R-stress|148.78h|75,654|
+|ZH|AISHELL-3-stress|50.59h|63,243|
+|EN|LibriTTS-R-stress|148.78h|74,496|
 
 ## Pipeline
 
