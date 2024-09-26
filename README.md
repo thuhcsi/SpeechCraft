@@ -6,6 +6,9 @@ For details of the pipeline and dataset, please refer to our [Paper](http://arxi
 
 <!-- Dataset and pipeline are coming soon. -->
 
+## News
+[2024-09-26]: **Structured metadata** (pitch, energy, speed, age, gender, emotion tone, emphasis, topic/category, and transcript) has been made available to facilitate further enhancements and augmentations of the dataset.
+
 ## Download Speech Corpus
 
 |Language|Speech Corpus|#Duration|#Clips|
@@ -15,8 +18,6 @@ For details of the pipeline and dataset, please refer to our [Paper](http://arxi
 |EN|[GigaSpeech-M](https://huggingface.co/datasets/speechcolab/gigaspeech/tree/main/data/audio/m_files_additional)|739.91h|670,070|
 |EN|[LibriTTS-R](https://www.openslr.org/141/)|548.88h|352,265|
 
-## News
-[2024-09-26]: **Structured metadata** (pitch, energy, speed, age, gender, emotion tone, emphasis, topic/category, and transcript) has been made available to facilitate further enhancements and augmentations of the dataset.
 
 <!-- ## Metadata Walkthrough -->
 ## Download Speech Annotation
