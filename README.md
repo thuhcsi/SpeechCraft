@@ -137,20 +137,11 @@ python llama_infer.py
 ## Citation
 Please cite our paper if you find this work useful:
 ```
-@inproceedings{10.1145/3664647.3681674,
-author = {Jin, Zeyu and Jia, Jia and Wang, Qixin and Li, Kehan and Zhou, Shuoyi and Zhou, Songtao and Qin, Xiaoyu and Wu, Zhiyong},
-title = {SpeechCraft: A Fine-Grained Expressive Speech Dataset with Natural Language Description},
-year = {2024},
-isbn = {9798400706868},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3664647.3681674},
-doi = {10.1145/3664647.3681674},
-booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-pages = {1255–1264},
-numpages = {10},
-keywords = {automated speech captioning, controllable speech generation, multi-modal, speech-language dataset},
-location = {Melbourne VIC, Australia},
-series = {MM '24}
+@inproceedings{jin2024speechcraft,
+  title={Speechcraft: A fine-grained expressive speech dataset with natural language description},
+  author={Jin, Zeyu and Jia, Jia and Wang, Qixin and Li, Kehan and Zhou, Shuoyi and Zhou, Songtao and Qin, Xiaoyu and Wu, Zhiyong},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={1255--1264},
+  year={2024}
 }
 ```
